@@ -21,7 +21,7 @@ Esta página web ha sido creada para un trabajo de final de trimestre de la asig
 <img src="Imágenes/15reliquias.JPG" width="600px"><br>
 <img src="Imágenes/16contacto.JPG" width="600px"><br>
 <img src="Imágenes/17griffindor.JPG" width="600px"><br>
-<img src="Imágenes/18hafflepuff.JPG" width="600px"><br>
+<img src="Imágenes/18hufflepuff.JPG" width="600px"><br>
 <img src="Imágenes/19ravenclaw.JPG" width="600px"><br>
 <img src="Imágenes/20slytherin.JPG" width="600px"><br>
 
