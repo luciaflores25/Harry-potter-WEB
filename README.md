@@ -1,4 +1,4 @@
-# Proyecto Página WEB sobre Harry Potter
+﻿# Proyecto Página WEB sobre Harry Potter
 
 Esta página web ha sido creada para un trabajo de final de trimestre de la asignatura de Lenguaje de Marcas.
 
@@ -14,4 +14,10 @@ Esta página web ha sido creada para un trabajo de final de trimestre de la asig
 <img src="Imágenes/8hp6.JPG" width="600px"><br>
 <img src="Imágenes/9hp7.JPG" width="600px"><br>
 <img src="Imágenes/10hp8.JPG" width="600px"><br>
+<img src="Imágenes/11amigosEnemigos.JPG" width="600px"><br>
+<img src="Imágenes/12amigosEnemigos.JPG" width="600px"><br>
+<img src="Imágenes/13quidditch.JPG" width="600px"><br>
+<img src="Imágenes/14horrocruxes.JPG" width="600px"><br>
+<img src="Imágenes/15reliquias.JPG" width="600px"><br>
+<img src="Imágenes/16contacto.JPG" width="600px"><br>
 
